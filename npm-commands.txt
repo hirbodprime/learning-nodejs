@@ -1,0 +1,32 @@
+npm init --yes
+
+npm i package
+npm i package@2.4.2
+npm i package --save-dev
+npm i -g package
+npm i -g npm
+npm i -g npm-check-updates
+
+npm-check-update -u // ncu -u
+
+npm -g outdated
+npm outdated
+
+npm un package
+npm un -g package
+
+npm version major/minor/patch
+
+npm list
+npm list --depth=0
+
+npm view package versions
+npm view package dependencies
+npm view package
+
+npm adduser
+npm login
+npm publish
+npm update
+
+
