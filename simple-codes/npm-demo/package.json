@@ -11,6 +11,6 @@
   "keywords": [],
   "dependencies": {
     "mongoose": "^7.0.3",
-    "underscore": "^1.13.6"
+    "underscore": "^1.4.0"
   }
 }
